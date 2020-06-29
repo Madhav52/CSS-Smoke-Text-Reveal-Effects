@@ -1,4 +1,4 @@
-# CSS3-Effects
+# CSS-Text Reveal From Smoke Effects
 Text Reveal from smoke animation effect using CSS3 only.</br>
 
 Just download the respository and unzip the file. </br>
